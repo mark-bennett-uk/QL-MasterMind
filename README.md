@@ -12,7 +12,7 @@ Select the difficulty level
 2)	6 colours, duplicates possible
 3)	7 colours, duplicates possible
 
-Type in the column (A-D left to right) followed by the colour code to set a peg. E.G. A1 or C3
+Type in the column (A-D left to right) followed by the colour code to set a peg. E.G. A1 or C3.
 Type in a column and zero to clear the peg in the column.
 Type in U to copy the last try (row) into the current try.
 Type S followed by two column letters to swap those pegs, e.g. SBD will swap the pegs in B and D.
