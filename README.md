@@ -14,7 +14,7 @@ Select the difficulty level
 
 Type in the column (A-D left to right) followed by the colour code to set a peg. E.G. A1 or C3.
 
-Type in a column and zero to clear the peg in the column.
+Type in a column letter and zero to clear the peg in the column.
 
 Type in U to copy the last try (row) into the current try.
 
