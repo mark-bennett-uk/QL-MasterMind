@@ -6,10 +6,12 @@ I came across my family’s old game of MasterMind recently and it reminded me t
 A version of the popular coloured peg game for the Sinclair QL written in SuperBASIC.
 Instructions, load in the basic from the text file or the MDV file and type “run”.
 Select the difficulty level
+
 0)	6 colours, no duplicate colours, score pegs in position to indicate correct pegs
 1)	6 colours, no duplicate colours
 2)	6 colours, duplicates possible
 3)	7 colours, duplicates possible
+
 Type in the column (A-D left to right) followed by the colour code to set a peg. E.G. A1 or C3
 Type in a column and zero to clear the peg in the column.
 Type in U to copy the last try (row) into the current try.
